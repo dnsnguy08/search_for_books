@@ -70,7 +70,7 @@ API routes were tested via Apollo Graphical and deployed live on Heroku.
 
 ## Repository
 - [Live App](https://begin-a-book.herokuapp.com/)
-- [Project Repo]https://github.com/dnsnguy08/search_for_books)
+- [Project Repo](https://github.com/dnsnguy08/search_for_books)
 ## Questions
 For any questions, please reach out to:
 - Dennis Nguyen
