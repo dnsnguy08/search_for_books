@@ -23,8 +23,8 @@
 
     - Clone the repo
     - 'npm i'
-    - 'npm run build'
-    - 'npm run develop'
+    - 'npm start client/src/App.js'
+
 
   ## Usage
     GIVEN a book search engine
